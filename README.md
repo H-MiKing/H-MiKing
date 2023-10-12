@@ -194,11 +194,9 @@ mindmap
 <!--LINE-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
+</td></tr>
 <!--动作效果-->
 <h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
-<!--签名-->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=HeartYang_生活的解药">
-<!--电脑端-->
 <H2>PC Software Tools Medals</H2>
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -513,7 +511,6 @@ mindmap
 
 
 </table>
-
 
 
 <!-- ########################################## 分割 ########################################## -->
