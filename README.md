@@ -153,11 +153,20 @@ mindmap
 
 <!-- Star 2023-->
 <div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
-
+<br><br>
 <!-- 数据展示-主题&theme=radical-->
-<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=H-MiKing&theme=radical&hide_border=true" />
-<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
+
+<!--Link-Speed-->
+<div class="contain"><p style="font-size:40px;color:orange">Link-Speed</p>
+</div>
+
+<div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
+<img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
+<img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
