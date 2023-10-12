@@ -168,6 +168,18 @@ mindmap
 <img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
 </div>
 
+<!--Line跑码线-->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<!--贡献速度-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=H-MiKing&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+<!-- Github数据展示-->
+<div align="center"> <img src="https://metrics.lecoq.io/H-MiKing?template=classic&config.timezone=Asia%2Fchengdu"></div>
+<!-- 奖杯-->
+<p align="center">
+<img src="https://github.com/H-MiKing/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
+<!--Github奖杯数据展示-->
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H-MiKing&theme=radical" />
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
