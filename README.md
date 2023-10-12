@@ -145,5 +145,9 @@ mindmap
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=H-MiKing&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<!-- Awesome repo 比较好的仓库-->
+<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
