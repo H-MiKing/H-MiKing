@@ -178,6 +178,23 @@ mindmap
 <p align="center">
 <img src="https://github.com/H-MiKing/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
 
+<!--使用的语言-搬砖动画-->
+<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=H-MiKing&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
+
+<!-- CSDN-bili 数据-->
+<div align=""> <img src="https://stats.justsong.cn/api/csdn/?id=weixin_51369125&theme=radical#&lang=zh-CN"> <img src="https://stats.justsong.cn/api/bilibili/?id=346448962&theme=radical#&lang=zh-CN">
+</div>
+<!--LINE-->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<!--极客挑战-->
+<img align='right' src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/xiaohuoche.gif?raw=true" width="40%">
+<!--小火车-->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
+
+<!--LINE-->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -189,3 +206,4 @@ mindmap
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </div>
+
