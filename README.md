@@ -114,7 +114,7 @@ mindmap
 ![Static Badge](https://img.shields.io/badge/Deepin%20Linux-%23007CFF?logo=Deepin%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=Arch%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/H3C%20Cloud%20Lab%20%E5%8D%8E%E4%B8%89%E7%BD%91%E7%BB%9C%E6%A8%A1%E6%8B%9F%E5%99%A8-%23C22127?logoColor=white)
-![Static Badge](https://img.shields.io/badge/Aliyundrive%20%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98-%230D96F6?logoColor=white)
+
 
 🧰 常用的工具
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
