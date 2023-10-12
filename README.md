@@ -177,8 +177,6 @@ mindmap
 <!-- 奖杯-->
 <p align="center">
 <img src="https://github.com/H-MiKing/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
-<!--Github奖杯数据展示-->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H-MiKing&theme=radical" />
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
