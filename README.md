@@ -12,7 +12,7 @@
     <a href="https://www.oldit.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
 <!--     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
 <!--     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+<!--     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
     <a href="https://space.bilibili.com/346448962/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_51369125/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/hmiking/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
@@ -29,10 +29,29 @@
 
 </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H-MiKing" /> </div>
-<!--
-**H-MiKing/H-MiKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  🙋 Hello
+
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;大家好，我是HMiKing。</p>
+<p>&emsp;&emsp;热爱羽毛球🏸。</p>
+<p>&emsp;&emsp;热爱计算机和IT互联网事业，励志成为一名优秀的学者。</p>
+<p>&emsp;&emsp;我们正在以云原生的方式优化世界，通过微服务的灵活运用和弹性扩展的构建卓越系统。</p>
+<p><strong>&emsp;&emsp;We are optimizing the world in a cloud-native way, building exceptional systems through the flexible use of microservices and resilient scaling.</strong></p>
+
+</td></tr>
+
+<tr>
+<td>
+  
+<!-- 近期博客 -->
+### 📃 Recent Blog
 
 Here are some ideas to get you started:
 
@@ -44,4 +63,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
