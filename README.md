@@ -152,3 +152,23 @@ mindmap
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=H-MiKing&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+</div>
