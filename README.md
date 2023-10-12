@@ -1,4 +1,9 @@
 ### Hi there 👋
+  <div align="center">
+    <a href="https://www.oldit.cn/">
+      <img src="https://djy.oldit.cn/github/console.log.svg;小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H-MiKing" /> </div>
 <!--
