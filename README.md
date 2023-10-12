@@ -107,8 +107,16 @@ mindmap
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 
-🧰 常用的工具
+💡 我的技能
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-%23557C94?logo=Kali%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/RedHat%20Linux-%23EE0000?logo=RedHat%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ubunto%20Linux-%23E95420?logo=ubuntu%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Deepin%20Linux-%23007CFF?logo=Deepin%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=Arch%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/H3C%20Cloud%20Lab%20%E5%8D%8E%E4%B8%89%E7%BD%91%E7%BB%9C%E6%A8%A1%E6%8B%9F%E5%99%A8-%23C22127?logoColor=white)
+![Static Badge](https://img.shields.io/badge/Aliyundrive%20%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98-%230D96F6?logoColor=white)
 
+🧰 常用的工具
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
