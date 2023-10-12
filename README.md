@@ -1,7 +1,7 @@
 ### Hi there 👋
   <div align="center">
     <a href="https://www.oldit.cn/">
-      <img src="https://djy.oldit.cn/github/console.log.svg;小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);H MiKing祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
